@@ -1,0 +1,25 @@
+/*https://git.io/JedpK 2019 Tutrox*/
+
+body {
+  background-image: url("/sb.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+
+  margin: 30vh 10vw;
+
+  color: white;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 28px;
+}
+
+h1, h2, h3 {
+  font-family: 'Merriweather', serif;
+}
+
+a {
+  color: white;
+}
+
+p {
+  margin-top: -1rem;
+}
